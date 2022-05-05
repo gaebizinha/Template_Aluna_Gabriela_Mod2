@@ -1,0 +1,77 @@
+.foto-perfil {
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+body {
+    height: 2000px;
+    text-align: center;
+    background: linear-gradient(180deg, rgb(249, 249, 249), rgb(223, 198, 239));
+}
+
+li {
+    text-align: center;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
+    text-align: center;
+    font-size: large;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+.in:hover {
+    transform: scale(1.1);
+}
+
+.git:hover {
+    transform: scale(1.1);
+}
+
+a:hover {
+    color: rgb(178, 101, 214);
+    text-decoration: none;
+}
+
+a:link {
+    color: rgb(25, 3, 50);
+    text-decoration: none;
+    font-size: large;
+}
+
+.git {
+    border-radius: 50%;
+}
+
+.in {
+    border-radius: 50%;
+}
+
+h7 {
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
+ 
+.card2{
+    margin: 0 auto;
+}
