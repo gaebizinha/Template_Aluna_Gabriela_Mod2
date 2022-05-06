@@ -25,7 +25,7 @@ function clicar() {
 }
 
 function clicar2() {
-    var V0 = document.getElementById("Vinicial").value;
+    var V0 = document.getElementById("Vinicial2").value;
     var hmax1 = (V0 ** 2);
     var hmax = parseFloat(hmax1) / 20
     
