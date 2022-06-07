@@ -1,6 +1,7 @@
 # Gabriela de Morais da Silva 
 Minhas entregas estão definidas aqui:
 ## Auto Estudo 
+## Entregas 
 <br>
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%202"> 29/04/2022 -03_AUT_EST_ENTREGA\Semana 2 - Currículo</a>
 <br>
@@ -11,6 +12,7 @@ Minhas entregas estão definidas aqui:
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%205/Curr%C3%ADculo"> 03/06/2022 -03_AUT_EST_ENTREGA\Semana 5 - Currículo</a>
 <br>
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%206%20e%207"> 06/06/2022 -03_AUT_EST_ENTREGA\Semana 6 e 7 - Currículo</a>
+<br>
 ## Obrigatórios
 <br>
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%203"> 06/05/2022 -04_AUT_EST_EX_OBRIGATORIOS/ Semana 3 - JS exercício </a>
