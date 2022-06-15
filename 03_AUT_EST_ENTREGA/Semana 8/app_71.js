@@ -10,7 +10,7 @@ const app = express();
 const DBPATH = 'dbUser.db';
 
 
-app.use(express.static("../frontend/"));
+app.use(express.static("./"));
 
 
 app.use(express.json());

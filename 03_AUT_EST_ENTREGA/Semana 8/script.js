@@ -1,6 +1,4 @@
 ﻿
-var calcResDiv = "#calc";
-var getResDiv = "#get";
 var getDBResDiv = "#getDB";
 
 /* Função que faz uma requisição GET */
@@ -14,7 +12,6 @@ function TestGETDB(){
 
     resposta = JSON.parse(xhttp.responseText);
     
-    $(getDBResDiv).append("<br /><br />" + JSON.stringify(resposta));
-    $(getDBResDiv).append("<br /><br />* Seleção do atributo 'title' do primeiro usuario:<br />" + resposta[0].title);
+    $(getDBResDiv).append(resposta[0].nome);
     //console.log(xhttp.responseText);
 }
