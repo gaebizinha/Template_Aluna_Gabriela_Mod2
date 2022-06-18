@@ -13,6 +13,7 @@ Minhas entregas estão definidas aqui:
 <br>
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%206%20e%207"> 06/06/2022 -03_AUT_EST_ENTREGA\Semana 6 e 7 - Currículo</a>
 <br>
+<a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%208"> 06/06/2022 -03_AUT_EST_ENTREGA\Semana 8 - Currículo</a>
 
 ## Obrigatórios
 <br>
@@ -21,4 +22,6 @@ Minhas entregas estão definidas aqui:
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%205"> 02/06/2022 -04_AUT_EST_EX_OBRIGATORIOS/ Semana 5 - JS exercício </a>
 <br>
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%207"> 03/06/2022 -04_AUT_EST_EX_OBRIGATORIOS/ Semana 7 - JS exercício </a>
+<br>
+<a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%209"> 18/06/2022 -04_AUT_EST_EX_OBRIGATORIOS/ Semana 9 - JS exercício </a>
 
