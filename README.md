@@ -11,7 +11,7 @@ Minhas entregas estão definidas aqui:
 <br>
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%205/Curr%C3%ADculo"> 03/06/2022 -03_AUT_EST_ENTREGA\Semana 5 - Currículo</a>
 <br>
-<a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%206%20e%207"> 06/06/2022 -03_AUT_EST_ENTREGA\Semana 6 e 7 - Currículo</a>
+<a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%206%20e%207"> 18/06/2022 -03_AUT_EST_ENTREGA\Semana 6 e 7 - Currículo</a>
 <br>
 <a href="https://github.com/gaebizinha/Template_Aluna_Gabriela_Mod2/tree/main/03_AUT_EST_ENTREGA/Semana%208"> 06/06/2022 -03_AUT_EST_ENTREGA\Semana 8 - Currículo</a>
 
