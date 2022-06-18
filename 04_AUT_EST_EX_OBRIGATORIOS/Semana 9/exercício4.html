@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />	
+	<title>Etapa 9</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="script4.js">
+</head>
+<body>
+	<script src="script4.js"></script>
+	<div id="main">
+	<h1>ETAPA 9 - Exercício 4 Javascript</h1>
+          <br>
+     	  <p>Valor</p>
+		  <input id="V1" type="number">
+		  <br>
+		  <button onclick="Seq()">Sequencia</button>
+		  <br>
+		  <p>Sequência</p>
+		  <p class="resultado"></p> 
+	   <br>
+	<script>
+		
+function Seq(){
+    var Elem = document.getElementById("V1").value;
+	var mostra = document.getElementById("resultado");
+    if (Elem <= 0) {
+    document.querySelector(".resultado").innerHTML = "não é possível calcular";
+}else{
+   var n1 = 1;
+   var n2 = 0;
+   var n3 = 0;
+   var n4 = 0;
+   let array = [];
+   for(let i = 0; i < Elem; i++){
+      array.push(n3);
+      n3 = n1 + n2;
+      n4 = n2/n1;
+      n1 = n2;
+      n2 = n3;
+   }
+   mostra.innerHTML = array;
+}
+}
+	</script>
+   
+	   
+
+</body>
+</html>
