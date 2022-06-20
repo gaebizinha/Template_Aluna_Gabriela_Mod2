@@ -15,7 +15,7 @@
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
        
        <script>
-          $(document).ready(function(){
+          $(document).ready(function(){//faz as divs dos meus contatos aparecerem 
             $("button").click(function(){
               $("#div1").fadeIn();
               $("#div2").fadeIn("slow");
@@ -32,7 +32,7 @@
      
     <h2>Informações Pessoais</h2>
     
-    <p id="getDB"></p>
+    <p id="getDB"></p> <!--a função get vai aparecer nessa linha ao apertar o botão-->
     <button onclick="TestGETDB()">Buscar nome no banco de dados</button>
     <p>17 anos</p>
     <p>Estudante de Eng. de Software no Inteli</p>
@@ -86,13 +86,14 @@
     <p>Quer entrar em contato comigo</p>
 
     <button>Meus contatos</button><br><br>
+    <!--cada div ira aparecer depois que clicar no botão e acionar o script no head -->
     <center>
     <div id="div1" style="width:100px;height:80px;display:none;background-color:none;">Celular<br>(11)982064739</div>
    </center>
    <center>
     <div id="div2" style="width:100px;height:80px;display:none;background-color:none;">Email:<br><center>Gabibibi1510ms@gmail.com</center></div>
   </center>
-  <center>
+  <center> 
     <div id="div3" style="width:100px;height:80px;display:none;background-color:none;"><a href="https://github.com/gaebizinha" target="_blank">
       <img class="git" width="50" height="50" src="Assets/imagens/3LogoGit.png">
   </a>

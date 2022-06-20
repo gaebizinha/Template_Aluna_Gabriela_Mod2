@@ -2,6 +2,8 @@
 var getDBResDiv = "#getDB";
 
 /* Função que faz uma requisição GET */
+
+//tirar o "nome" da tabela do banco de dados e faz aparecer no html
 function TestGETDB(){
     var url = "http://127.0.0.1:3071/users";
     var resposta;
