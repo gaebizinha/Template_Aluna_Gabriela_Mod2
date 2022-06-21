@@ -17,7 +17,7 @@
 		  <button onclick="Seq()">Sequencia</button>
 		  <br>
 		  <p>Sequência</p>
-		  <p class="resultado"></p> 
+		  <h1 class="resultado"></h1> 
 	   <br>
 	
 <script>
@@ -32,14 +32,13 @@ function Seq(){
  
    for(cont = 1; cont <= Elem; cont++){
    if (cont == 1 || cont == 2){
-	document.querySelector(".resultado").innerHTML = 1;
+	document.querySelector(".resultado").innerHTML += '<h1>'+n1+'</h1>';
    }else{
-	Elem = n1 + n2;
-	document.querySelector(".resultado").innerHTML = Elem;
-	
+	val = parseInt(n1) + parseInt(n2);
+	document.querySelector(".resultado").innerHTML += '<h1>'+val+'</h1>';
+	n1 = n2;
+	n2 = val;
    }
-   n1 = n2;
-	n2 = Elem;
    }
 }
 }
