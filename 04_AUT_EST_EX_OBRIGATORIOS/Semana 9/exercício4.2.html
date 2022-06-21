@@ -30,10 +30,10 @@ function Seq(){
    var n1 = 1;
    var n2 = 1;
  
-   for(cont = 1; cont <= Elem; cont++){
-   if (cont == 1 || cont == 2){
+   for(cont = 1; cont <= Elem; cont++){// analisa cada elemento a partir do 1
+   if (cont == 1 || cont == 2){//Quando o contador for == 1 ou == 2
 	document.querySelector(".resultado").innerHTML += '<h1>'+n1+'</h1>';
-   }else{
+   }else{//calculo para sequência
 	val = parseInt(n1) + parseInt(n2);
 	document.querySelector(".resultado").innerHTML += '<h1>'+val+'</h1>';
 	n1 = n2;
